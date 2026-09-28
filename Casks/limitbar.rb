@@ -1,6 +1,6 @@
 cask "limitbar" do
   version "0.1.0"
-  sha256 "f7aaffcd685c8915f4abd8fd48af2342d796933e0ba3984cdb7aae57b2217a0c"
+  sha256 "fd3ac1227d8d2d76166ba8a0eadf53d96c0bb40efda140aacaeea318124ca49d"
 
   url "https://github.com/emirbn/LimitBar/releases/download/v#{version}/LimitBar-macos-universal-#{version}.zip"
   name "LimitBar"
